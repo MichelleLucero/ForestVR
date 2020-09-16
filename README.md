@@ -1,5 +1,5 @@
 # Outline for ForestVR
-##Instructions:
+Instructions:
  - Clone ForestVR
  - Go to Unity Hub and click on "ADD"
  - Locate ForestVR
